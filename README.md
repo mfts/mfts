@@ -1,10 +1,10 @@
 <a href="https://mfts.io" target="_blank"><img src="img/branding.png" /></a>
 
 <p align="center">
-  <a href="https://twitter.com/intent/follow?screen_name=mfts0&tw_p=followbutton">
+  <a href="https://twitter.com/intent/follow?screen_name=mfts0&tw_p=followbutton" target="_blank">
     <img src="https://img.shields.io/twitter/follow/mfts0?label=Twitter&logo=twitter&style=for-the-badge&color=EBCB8B" alt="Marc Seitz's Twitter"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCLc-sy8yWdls3dyxMJKKblw?sub_confirmation=1">
+  <a href="https://www.youtube.com/channel/UCLc-sy8yWdls3dyxMJKKblw?sub_confirmation=1" target="_blank">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCLc-sy8yWdls3dyxMJKKblw?style=for-the-badge&logo=youtube&label=Youtube&color=EBCB8B" alt="Marc Seitz's YouTube channel"/>
   </a>
 </p>
