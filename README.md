@@ -19,8 +19,10 @@ I strongly believe in a better and **more sustainable monetization of open sourc
 
 ### Latest YouTube videos
 
+- [OpenReplay: user session replays better than any web analytics](https://www.youtube.com/watch?v=ngtXwsy1d_I)
+- [Getting started with Actual Budget – the best open source personal finance system](https://www.youtube.com/watch?v=6ho_oA4MwXo)
+- [Meet Baserow, the API-first open source alternative to Airtable](https://www.youtube.com/watch?v=gkbZw-MZ9_k)
 - [Open source monetization with tea.xyz](https://www.youtube.com/watch?v=sAMrveIC0Hc)
-- [A first look at Beam by PlanetScale](https://www.youtube.com/watch?v=fMrH444Bvw4)
 - [Fastest Developer Environment in the Cloud (83 seconds!?)](https://www.youtube.com/watch?v=x19DetWAsVA)
 - [Your NEXT modern portfolio website with Next.js](https://www.youtube.com/watch?v=r3u67UVDwzM)
 
