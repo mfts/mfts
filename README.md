@@ -28,6 +28,6 @@ I strongly believe in a better and **more sustainable monetization of open sourc
 
 ### More about me:
 
-- 🌐 See my full [about page here](https://mfts.io/about)
+- 🌐 See my full [about page here](https://mfts.io)
 - 💬 Ask me about Open Source, [Next.js](https://nextjs.org), and [Ruby on Rails](https://rubyonrails.org)
 - 📫 How to reach me: `marc at mfts dot io`
