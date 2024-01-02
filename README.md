@@ -11,7 +11,7 @@
 
 ---
 
-I'm an Open Source contributor and Chief Technology Officer at [AQVC](https://aqvc.com).
+I'm an Open Source contributor and core maintainer at [Papermark](https://wwww.papermark.io).
 
 I publish a [weekly video](https://www.youtube.com/channel/UCLc-sy8yWdls3dyxMJKKblw?sub_confirmation=1) about the best open source projects I can find (suggestions welcome!).
 
